@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on いるいるのねぎ</title>
+    <link>https://deivs.f5.si/categories/windows/</link>
+    <description>Recent content in Windows on いるいるのねぎ</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 27 Aug 2024 00:03:58 +0900</lastBuildDate>
+    <atom:link href="https://deivs.f5.si/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ExplorerPatcherを使用した状態でサブ画面のタスクバーでもTrasnlucentTBを有効にする方法。</title>
+      <link>https://deivs.f5.si/post/trasnlucenttbforexplorerpatcher/</link>
+      <pubDate>Sat, 25 May 2024 13:14:00 +0900</pubDate>
+      <guid>https://deivs.f5.si/post/trasnlucenttbforexplorerpatcher/</guid>
+      <description>&lt;h2 id=&#34;はじめに&#34;&gt;はじめに.&lt;/h2&gt;&#xA;&lt;p&gt;Windowsのタスクバーは、プログラムの切り替えなどに使用するため、&lt;br&gt;&#xA;UI関連の変化はとても使いづらいと感じた方もいらっしゃると思います。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows 11から変わったスニッピングツール(切り取り &amp; スケッチ)を従来のバージョンに戻す方法</title>
+      <link>https://deivs.f5.si/post/windows11-snippingtools/</link>
+      <pubDate>Sun, 31 Mar 2024 23:58:00 +0900</pubDate>
+      <guid>https://deivs.f5.si/post/windows11-snippingtools/</guid>
+      <description>&lt;h2 id=&#34;はじめに&#34;&gt;はじめに.&lt;/h2&gt;&#xA;&lt;p&gt;Windows 11からスニッピングツール(切り取り &amp;amp; スケッチ)が変更されて、&lt;!-- raw HTML omitted --&gt;ショートカットキーでの、&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solidigm製のSSDドライバーがインストールできない問題。</title>
+      <link>https://deivs.f5.si/post/solidigm%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%81%AE%E5%85%A5%E3%82%8C%E6%96%B9/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0900</pubDate>
+      <guid>https://deivs.f5.si/post/solidigm%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%81%AE%E5%85%A5%E3%82%8C%E6%96%B9/</guid>
+      <description>&lt;p&gt;今回問題が起きたPC&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
